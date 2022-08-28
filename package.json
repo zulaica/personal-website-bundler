@@ -8,7 +8,7 @@
   },
   "license": "UNLICENSED",
   "private": true,
-  "exports": "./lib/index.mjs",
+  "bin": "./lib/index.mjs",
   "scripts": {
     "lint": "eslint \"lib/**\"",
     "test": "echo \"Error: no test specified\" && exit 1"
