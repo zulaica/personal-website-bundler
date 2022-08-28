@@ -1,0 +1,7 @@
+# Configuration Files
+.vscode/*.json     linguist-language=JSON5
+.eslintrc.json     linguist-language=JSON5
+.prettierrc.json   linguist-language=JSON5
+
+# Generated Files
+package-lock.json  linguist-generated
