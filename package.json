@@ -1,6 +1,11 @@
 {
   "name": "personal-website-bundler",
+  "author": "David Zulaica",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=16.17.0"
+  },
+  "license": "UNLICENSED",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,10 +15,12 @@
     "type": "git",
     "url": "git+https://github.com/zulaica/personal-website-bundler.git"
   },
-  "author": "David Zulaica",
-  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/zulaica/personal-website-bundler/issues"
   },
-  "homepage": "https://github.com/zulaica/personal-website-bundler#readme"
+  "homepage": "https://github.com/zulaica/personal-website-bundler#readme",
+  "volta": {
+    "node": "16.17.0",
+    "npm": "8.15.0"
+  }
 }
