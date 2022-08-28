@@ -1,0 +1,19 @@
+{
+  "name": "personal-website-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zulaica/personal-website-bundler.git"
+  },
+  "author": "David Zulaica",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zulaica/personal-website-bundler/issues"
+  },
+  "homepage": "https://github.com/zulaica/personal-website-bundler#readme"
+}
