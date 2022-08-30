@@ -1,5 +1,5 @@
 {
-  "name": "personal-website-bundler",
+  "name": "@zulaica/site-bundler",
   "author": "David Zulaica",
   "version": "0.1.0",
   "type": "module",
@@ -8,7 +8,9 @@
   },
   "license": "UNLICENSED",
   "private": true,
-  "bin": "./lib/index.mjs",
+  "bin": {
+    "site-bundler": "lib/index.mjs"
+  },
   "scripts": {
     "lint": "eslint \"lib/**\"",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -45,5 +47,10 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
+  },
+  "description": "",
+  "main": "index.mjs",
+  "directories": {
+    "lib": "lib"
   }
 }
