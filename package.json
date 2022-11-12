@@ -31,7 +31,7 @@
     "@babel/core": "^7.20.2",
     "@babel/parser": "^7.20.3",
     "@babel/preset-env": "^7.20.2",
-    "commander": "^9.4.0",
+    "commander": "^9.4.1",
     "cssnano": "^5.1.13",
     "cssnano-preset-advanced": "^5.3.8",
     "htmlnano": "^2.0.2",
