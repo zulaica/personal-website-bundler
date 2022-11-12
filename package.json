@@ -28,9 +28,9 @@
     "npm": "8.19.2"
   },
   "dependencies": {
-    "@babel/core": "^7.18.13",
-    "@babel/parser": "^7.18.13",
-    "@babel/preset-env": "^7.18.10",
+    "@babel/core": "^7.20.2",
+    "@babel/parser": "^7.20.3",
+    "@babel/preset-env": "^7.20.2",
     "commander": "^9.4.0",
     "cssnano": "^5.1.13",
     "cssnano-preset-advanced": "^5.3.8",
