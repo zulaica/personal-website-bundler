@@ -3,7 +3,7 @@
 ## Installation
 
 ```console
-npm install github:zulaica/site-bundler#v0.4.2 --save-dev
+npm install github:zulaica/site-bundler#v0.4.3 --save-dev
 ```
 
 ## Usage
