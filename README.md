@@ -1,4 +1,4 @@
-# Site Bundler
+# 👷 Site Bundler
 
 ## Installation
 
