@@ -2,12 +2,12 @@
 
 ## Installation
 
-```console
-npm install github:zulaica/site-bundler#v0.4.3 --save-dev
+```sh
+npm install @zulaica/site-bundler --save-dev
 ```
 
 ## Usage
 
-```console
+```sh
 site-bundler --input <source-directory> --output <destination-directory>
 ```
