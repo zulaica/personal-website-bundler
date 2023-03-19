@@ -1,7 +1,7 @@
 {
   "name": "@zulaica/site-bundler",
   "author": "David Zulaica",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "type": "module",
   "engines": {
     "node": ">=16.18.1"
@@ -16,12 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zulaica/personal-website-bundler.git"
+    "url": "git+https://github.com/zulaica/site-bundler.git"
   },
   "bugs": {
-    "url": "https://github.com/zulaica/personal-website-bundler/issues"
+    "url": "https://github.com/zulaica/site-bundler/issues"
   },
-  "homepage": "https://github.com/zulaica/personal-website-bundler#readme",
+  "homepage": "https://github.com/zulaica/site-bundler#readme",
   "volta": {
     "node": "16.18.1",
     "npm": "8.19.2"
