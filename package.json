@@ -4,7 +4,7 @@
   "version": "0.4.5",
   "type": "module",
   "engines": {
-    "node": ">=16.18.1"
+    "node": ">=18.19.1"
   },
   "license": "UNLICENSED",
   "bin": {
@@ -22,10 +22,6 @@
     "url": "https://github.com/zulaica/site-bundler/issues"
   },
   "homepage": "https://github.com/zulaica/site-bundler#readme",
-  "volta": {
-    "node": "16.18.1",
-    "npm": "8.19.2"
-  },
   "dependencies": {
     "@babel/core": "7.21.0",
     "@babel/parser": "7.21.2",
@@ -52,5 +48,9 @@
   "main": "index.mjs",
   "directories": {
     "lib": "lib"
+  },
+  "volta": {
+    "node": "18.19.1",
+    "npm": "10.2.4"
   }
 }
