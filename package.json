@@ -1,7 +1,7 @@
 {
   "name": "@zulaica/site-bundler",
   "author": "David Zulaica",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "type": "module",
   "engines": {
     "node": ">=18.19.1"
