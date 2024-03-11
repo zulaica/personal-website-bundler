@@ -5,11 +5,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "eslint.run": "onSave",
-  "files.exclude": {
-    "**/.git": true,
-    "**/node_modules": true,
-    "**/.DS_Store": true,
-    "**/Thumbs.db": true
-  },
-  "search.exclude": {}
+  "explorer.excludeGitIgnore": true,
+  "files.insertFinalNewline": true
 }
