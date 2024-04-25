@@ -7,11 +7,9 @@
     "node": ">=18.19.1"
   },
   "license": "UNLICENSED",
-  "bin": {
-    "site-bundler": "lib/index.mjs"
-  },
+  "bin": "./lib/index.mjs",
   "description": "",
-  "main": "index.mjs",
+  "main": "./lib/index.mjs",
   "directories": {
     "lib": "lib"
   },
