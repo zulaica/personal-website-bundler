@@ -31,9 +31,9 @@
   },
   "homepage": "https://github.com/zulaica/site-bundler#readme",
   "dependencies": {
-    "@babel/core": "7.24.4",
-    "@babel/parser": "7.24.4",
-    "@babel/preset-env": "7.24.4",
+    "@babel/core": "7.26.0",
+    "@babel/parser": "7.26.2",
+    "@babel/preset-env": "7.26.0",
     "commander": "12.1.0",
     "cssnano": "7.0.6",
     "cssnano-preset-advanced": "7.0.6",
